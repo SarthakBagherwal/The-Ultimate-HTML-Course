@@ -1,4 +1,4 @@
-/* General Reset */
+General Reset
 * {
     margin: 0;
     padding: 0;
@@ -95,7 +95,7 @@ main section {
 
 /* First Section (hero section) */
 main section:first-of-type {
-    background: url('/img/bg.png') no-repeat center center/cover;
+    background: #e23744;
     color: white;
     min-height: 60vh;
     display: flex;
